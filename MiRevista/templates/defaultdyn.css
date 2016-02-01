@@ -1,0 +1,81 @@
+/* Banner */
+#banner {
+	background: {{ bannerbackground }};
+}
+
+/* Sidebar */
+#sidebar {
+    background: {{ sidebarbackground }};
+    font-size: {{ sidebarfontsize}};
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar ul {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar li {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar li ul {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar li li {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar li li span {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar li li a {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar h2 {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar p {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar a {
+    color: {{ sidebarfontcolor}};
+}
+
+#sidebar a:hover {
+    color: {{ sidebarfontcolor}};
+}
+
+/* Menu */
+#menu li {
+    background-color: {{ menubackground }};
+}
+
+#menu a {
+	font-size: {{ menufontsize}};
+	color: {{ menufontcolor}};
+}
+
+#menu a:hover, #menu .current_page_item a {
+	color: {{ menufontcolor}};
+}
+
+/* Footer */
+#footer {
+	background: {{ footerbackground }};
+    
+}
+
+#footer p {
+	color: {{ footerfontcolor}};
+    font-size: {{ footerfontsize}};
+}
+
+#footer a {
+	color: {{ footerfontcolor}};
+    font-size: {{ footerfontsize}};
+}

@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"SignUp",
+				"SignUpForm"
+			],
+			[
+				"clo",
+				"cloisterTrees"
+			],
+			[
+				"insert",
+				"insertTile"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"dumm",
+				"dummies"
+			],
+			[
+				"du",
+				"dummyId"
+			],
+			[
+				"dum",
+				"dummies"
+			],
+			[
+				"play",
+				"playerID"
+			],
+			[
+				"compl",
+				"completedTrees"
+			],
+			[
+				"pla",
+				"playersPoints"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"already",
+				"playerAlreadyIn"
+			],
+			[
+				"players",
+				"playersId"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"num",
+				"numOfBanners"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"arra",
+				"arrayOfArrays"
+			],
+			[
+				"array",
+				"arrayOfArrays"
+			],
+			[
+				"COMPL",
+				"completedTrees"
+			],
+			[
+				"getNu",
+				"getNumOfTiles"
+			],
+			[
+				"get",
+				"getFactor"
+			],
+			[
+				"match",
+				"matchingCells"
+			],
+			[
+				"ro",
+				"roadTrees"
+			],
+			[
+				"ci",
+				"cityTrees"
+			],
+			[
+				"fiel",
+				"fieldTrees"
+			],
+			[
+				"to",
+				"toArrayOfTrees"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"le",
+				"getLeftChildren"
+			],
+			[
+				"new",
+				"newTree"
+			],
+			[
+				"print",
+				"printTree"
+			],
+			[
+				"areas",
+				"areasOfAllTypes"
+			],
+			[
+				"compe",
+				"completedTrees"
+			],
+			[
+				"completed",
+				"completedTrees"
+			],
+			[
+				"complete",
+				"completedTrees"
+			],
+			[
+				"comple",
+				"completedTrees"
+			],
+			[
+				"o",
+				"orientation"
+			],
+			[
+				"inser",
+				"insertTile"
+			],
+			[
+				"Tree",
+				"TreesCollection"
+			],
+			[
+				"is",
+				"isInArray"
+			],
+			[
+				"matc",
+				"matchingCells"
+			],
+			[
+				"a",
+				"availableCells"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"have",
+				"haveTile"
+			],
+			[
+				"board",
+				"board"
+			],
+			[
+				"cel",
+				"cells"
+			],
+			[
+				"initialize",
+				"initializeBoard"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"regis",
+				"registertAnchor"
+			],
+			[
+				"add",
+				"addListSubmit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/newsletter/views.py",
+			"settings":
+			{
+				"buffer_size": 1825,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/forms.html",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/models.py",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/admin.py",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/forms.py",
+			"settings":
+			{
+				"buffer_size": 830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 3349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/urls.py",
+			"settings":
+			{
+				"buffer_size": 324,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pi/Django/trydjango/src/static_in_pro/our_static/img/example.txt",
+		"/home/pi/Django/trydjango/src/newsletter/templates/home.html",
+		"/home/pi/Django/trydjango/src/newsletter/apps.py",
+		"/mnt/droplet/home/pi/Django/trydjango/src/trydjango/urls.py",
+		"/mnt/droplet/home/pi/Django/trydjango/src/manage.py",
+		"/mnt/droplet/home/pi/Django/trydjango/src/trydjango/settings.py",
+		"/home/ismael/ISI/ProyectoISI/Logic/TreesCollection.js",
+		"/tmp/test-17h58m58s-10407.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Tiles.js",
+		"/mnt/droplet/home/pi/webapp/templates/index.html",
+		"/tmp/test-17h47m26s-9",
+		"/home/ismael/ISI/ProyectoISI/Logic/TreeStructure_v2.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/test.sh",
+		"/home/ismael/ISI/ProyectoISI/Logic/Games.js",
+		"/home/ismael/ISI/ProyectoISI/tests/jasmine/server/integration/TreeSpec.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Dummy.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Game.js",
+		"/home/ismael/Django/MiRevista/MiRevista/urls.py",
+		"/home/ismael/Django/MiRevista/manage.py",
+		"/home/ismael/Django/MiRevista/Content/admin.py",
+		"/home/ismael/Django/MiRevista/Content/views.py",
+		"/home/ismael/Django/MiRevista/Content/models.py",
+		"/home/ismael/Django/MiRevista/urls.py",
+		"/home/ismael/Django/MiRevista/Content/tests.py",
+		"/home/ismael/Django/MiRevista/Content/feedparser.py",
+		"/home/ismael/Django/MiRevista/MiRevista/settings.py",
+		"/home/ismael/ISI/ProyectoISI/Logic/Players.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Board.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Msgs.js",
+		"/home/ismael/main.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/manageTrees.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/TreeStructure.js",
+		"/home/ismael/ISI/ProyectoISI/tests/jasmine/server/integration/TileSpec.js",
+		"/home/ismael/ISI/ProyectoISI/tests/jasmine/server/integration/BoardSpec.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Player.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/Tile.js",
+		"/home/ismael/ISI/ProyectoISI/Logic/logic.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/tests/jasmine/client/integration/pruebaLoginSpec.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/tests/jasmine/client/integration/LeaderboardSpec.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/leaderboard.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/leaderboard.html",
+		"/home/ismael/ISI/practica4-isi/tests/jasmine/client/integration/functionalitySpec.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/server/fixtures.js",
+		"/home/ismael/ISI/Meteor/velocity-examples/leaderboard-jasmine/tests/jasmine/client/integration/database-fixtures.js",
+		"/home/ismael/ISI/practica4-isi/tests/jasmine/client/integration/domTestSpec.js",
+		"/home/ismael/ISI/practica4-isi/tests/jasmine/client/integration/pruebaLoginSpec.js",
+		"/home/ismael/ISI/practica4-isi/tests/jasmine/client/integration/pruebaRegisterSpec.js",
+		"/home/ismael/ISI/practica4-isi/tests/jasmine/client/integration/database-fixtures.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getAllTrees",
+			"getCoordAndZoneChild",
+			"direct_to_template",
+			"defaul",
+			"defa",
+			"printTree",
+			"TOTAL",
+			"insertTile",
+			"placeNode",
+			"new Tree",
+			"placeNode",
+			"printT",
+			"console.log",
+			"getLeftChildren",
+			"placeNode",
+			"mergeWith",
+			"new Tree(",
+			"console",
+			"_deleteDupNodes",
+			"_getNotDupCoords",
+			"which",
+			"wich",
+			"console.log",
+			"board",
+			"usssspCell",
+			"upCell",
+			"avali"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/newsletter/views.py",
+					"settings":
+					{
+						"buffer_size": 1825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/forms.html",
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/newsletter/models.py",
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/newsletter/admin.py",
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/newsletter/forms.py",
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/home.html",
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/trydjango/settings.py",
+					"settings":
+					{
+						"buffer_size": 3349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3336,
+								3336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1598.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/trydjango/urls.py",
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
