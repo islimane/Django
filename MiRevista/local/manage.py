@@ -1,1 +1,0 @@
-/home/pi/Django/MiRevista/manage.py
