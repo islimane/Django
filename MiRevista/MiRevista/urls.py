@@ -13,7 +13,7 @@ urlpatterns = patterns('',
     url(r'css/(?P<path>.*)$', 'django.views.static.serve',{'document_root': 'templates'}),
     url(r'images/(?P<path>.*)$', 'django.views.static.serve',{'document_root': 'templates/images'}),
     # Admin
-    url(r'^admin/', include(admin.site.urls)),
+    url(r'^admin', include(admin.site.urls)),
     # /canales
     url(r'^canales$', 'Content.views.channels'),
     url(r'^canales/\d*$', 'Content.views.channels'),
